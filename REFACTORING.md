@@ -38,6 +38,7 @@ Il faut créer une interface calculate et créer des sous classes calculateCar e
 
 **Bénéfice concret :**
 [Ce que ça change en pratique]
+Les classes sont réutilisables, le code est ouvert à l'extension et fermé à la modification
 
 ---
 
