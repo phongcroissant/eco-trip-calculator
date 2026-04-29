@@ -26,13 +26,15 @@
 
 ---
 
-## Pattern GOF appliqué : [nom du pattern]
+## Pattern GOF appliqué : Strategy
 
 **Problème résolu :**
 [Quel problème de conception ce pattern adresse-t-il dans ce contexte ?]
+Les méthodes de haut niveau qui dépendent des méthodes de bas niveau
 
 **Structure mise en place :**
 [Décrivez les classes/interfaces créées et leur rôle]
+Il faut créer une interface calculate et créer des sous classes calculateCar et calculateTrain
 
 **Bénéfice concret :**
 [Ce que ça change en pratique]
